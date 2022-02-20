@@ -1,0 +1,28 @@
+{
+    "developers"    : [
+
+    ],
+    
+    "skill"     : [
+        {
+            "id"      : 1,
+            "name"    : "Laravel Developer"
+        },
+        {
+            "id"      : 2,
+            "name"    : "React Developer"
+        },
+        {
+            "id"      : 3,
+            "name"    : "Django Developer"
+        },
+        {
+            "id"      : 4,
+            "name"    : "Python Developer"
+        },
+        {
+            "id"      : 5,
+            "name"    : "WordPress Developer"
+        }
+    ]
+}
